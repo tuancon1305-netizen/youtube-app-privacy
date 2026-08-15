@@ -1,3 +1,7 @@
+---
+title: "TC Automation - Privacy Policy"
+---
+
 # Privacy Policy for TC Automation
 
 This Privacy Policy describes how **TC Automation** handles your data when integrating with Google Services.
